@@ -1,0 +1,18 @@
+name="mallika"
+print(name.strip())
+print(name.lstrip())
+print(name.rstrip())
+print(name.isupper())
+print(name.islower())
+print(name.upper())
+print(name.lower())
+print(name.find("l"))
+print(name.count("a"))
+print(name.isnumeric())
+print(name.isalpha())
+print(name.isalnum())
+print(name.index("m"))
+print(name.rindex("a"))
+statement={"my","name","is","mallika."}
+print(" ".join(statement))
+print( name.replace("mallika","rebca"))
