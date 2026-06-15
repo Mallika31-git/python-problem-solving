@@ -7,6 +7,7 @@ This repository contains Python programs and practice exercises created while le
 - String Methods
 - Python Basics
 - Lists
+- dictionary
 
 ## Purpose
 To build strong programming fundamentals through practice and hands-on coding.
